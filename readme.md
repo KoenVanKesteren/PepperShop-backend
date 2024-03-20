@@ -7,11 +7,6 @@ Entity Framework Core
 
 de backend werkt met een MySql database maar voel je vrij om deze aan te passen
 
-## packages
-Pomelo.EntityFrameworkCore.MySql
-microsoft.entityframeworkcore.design
-Microsoft.EntityFrameworkCore.Tools
-
 ## deployment
 
 ### restore packages
