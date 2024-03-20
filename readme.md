@@ -13,11 +13,21 @@ microsoft.entityframeworkcore.design
 Microsoft.EntityFrameworkCore.Tools
 
 ## deployment
-restore packages:
-	dotnet restore
 
-setup database:
-	- update 'appsettings.json' with your connection
-	- in package manager console: 
-		Add-Migration <name of migration>
-		Update-Database
+### restore packages
+
+```sh
+	dotnet restore
+```
+
+### setup database
+update 'appsettings.json' with your connection
+
+
+```sh
+Add-Migration <name of migration>
+```
+
+```sh
+Update-Database
+```
