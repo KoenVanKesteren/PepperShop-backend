@@ -17,7 +17,7 @@ Microsoft.EntityFrameworkCore.Tools
 ### restore packages
 
 ```sh
-	dotnet restore
+dotnet restore
 ```
 
 ### setup database
