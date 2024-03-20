@@ -1,11 +1,10 @@
 # peppershop-backend
 
-## gebouwd met: 
+## build with
 .NET8
 ASP.NET Core WebAPI
 Entity Framework Core
-
-de backend werkt met een MySql database maar voel je vrij om deze aan te passen
+MySql database 
 
 ## deployment
 
